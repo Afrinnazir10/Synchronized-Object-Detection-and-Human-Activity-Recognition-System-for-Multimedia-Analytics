@@ -1,0 +1,1 @@
+# Synchronized-Object-Detection-and-Human-Activity-Recognition-System-for-Multimedia-Analytics
